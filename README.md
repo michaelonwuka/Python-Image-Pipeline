@@ -1,4 +1,4 @@
-# Tag-Pipeline
+# Python-Image-Pipeline
 # Python Url Image downloader
 
 ### Installation
